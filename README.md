@@ -1,23 +1,6 @@
-# binder
+# directory
 
-# About
-Binder is a simple web template. 
-It allows users to make a website by connecting a series of web pages into one home-base with a customizable navigation. Binder is built using Javascript and JQuery.
+*directory* is an experimental resource list that gathers lectures, meetups, organizations, zines, books, videos, pdfs, and people who engage with technology, art, activism, and theory in overlapping and myriad ways. it started out as a mental mind map by lizz thabet who found she was often sharing resources and connecting people across disciplines.
 
-# Binder can be used with:
-- Google Docs
-- Tumblr
-- NewHive
-- PDF’s
-- Wikipedia
-- Youtube
-- Vimeo 
-
-# Binder can’t be used with:
-- NY Times
-- Twitter
-- Facebook
-- Github
-
-# Questions 
-Please direct any questions about Binder to: info@thisisourwork.net
+## framework
+all credit goes to [binder](http://thisisourwork.net/binder/#About), a project built by clement valla. binder uses javascript and iframes to draw connections between online documents and create a central navigation from which to access them. check out the project and its [adopters](http://thisisourwork.net/binder/#Binder%20In-Use) for more info.
