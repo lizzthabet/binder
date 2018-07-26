@@ -1,8 +1,9 @@
 {
 	"title": "directory",
 	"logo" : "",
-	"about" : "an experimental linked list for thinking about technology, art, images, machines, networks, and people",
+	"about" : "an experimental linked list of resources for thinking about technology, art, images, machines, networks, and community",
 	"menu" : {
-		"directory" : "https://docs.google.com/document/d/1L2wcT7bUNhrES8pUyLujZWI32Ox9_DvMeI_RAm3TYr0/edit?usp=sharing"
+		"directory" : "https://docs.google.com/document/d/1L2wcT7bUNhrES8pUyLujZWI32Ox9_DvMeI_RAm3TYr0/edit?usp=sharing",
+		"source code": "https://github.com/lizzthabet/directory"
 	}
 }
